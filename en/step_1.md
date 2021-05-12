@@ -1,59 +1,19 @@
-## Introduction
+You can use the emoji keyboard to add use emojis anywhere you can type text in Scratch.  
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Instead of typing text use the emoji keyboard shortcut for your Operating System:
+- Windows - Windows key + '.'
+- MacOS - ctrl + cmd + space
+- Linux - ctrl + '.'
 
-### What you will make
+You can use emojis in the value of a variables:
+```blocks3
+set [music v] to [🎵]
+```
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+![desc](images/emoji-keyboard.png)
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+Or, in the **Text** tool in the Paint editor.  
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+![desc](images/emoji-mosquito.png)
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
-
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+**Tip:** Emojis can look different on different computers so they might not look the same on a tablet and a desktop computer. Some emojis aren't available on some computers, but most modern computers will support them.
