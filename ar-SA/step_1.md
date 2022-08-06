@@ -1,19 +1,19 @@
-You can use the emoji keyboard to add use emojis anywhere you can type text in Scratch.
+يمكنك استخدام لوحة مفاتيح الرموز التعبيرية (الايموجي) لإضافة الرموز التعبيرية في أي مكان يمكنك فيه كتابة نص في Scratch.
 
-Instead of typing text use the emoji keyboard shortcut for your Operating System:
-- Windows - Windows key + '.'
-- MacOS - ctrl + cmd + space
-- Linux - ctrl + '.'
+بدلاً من كتابة نص، استخدم اختصار لوحة مفاتيح للإيموجي الخاصة بنظام التشغيل الخاص بك:
+- نظام التشغيل Windows - مفتاح Windows + "."
+- نظام التشغيل MacOS استخدم - ctrl + cmd + space
+- نظام تشغيل Linux استخدم - ctrl + "."
 
-You can use emojis in the value of a variables:
+يمكنك استخدام الرموز التعبيرية في قيمة المتغيرات:
 ```blocks3
 set [music v] to [🎵]
 ```
 
 ![desc](images/emoji-keyboard.png)
 
-Or, in the **Text** tool in the Paint editor.
+أو ، في أداة **نص** في محرر الرسام.
 
 ![desc](images/emoji-mosquito.png)
 
-**Tip:** Emojis can look different on different computers so they might not look the same on a tablet and a desktop computer. Some emojis aren't available on some computers, but most modern computers will support them.
+**نصيحة:** يمكن أن تبدو الإيموجي مختلفة على أجهزة كمبيوتر مختلفة، لذلك قد لا تبدو متشابهة على الكمبيوتر اللوحي وجهاز الكمبيوتر المنضدي. لا تتوفر بعض رموز الإيموجي على بعض أجهزة الكمبيوتر، ولكن معظم أجهزة الكمبيوتر الحديثة تدعمها.
