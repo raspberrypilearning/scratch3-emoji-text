@@ -1,19 +1,19 @@
-You can use the emoji keyboard to add use emojis anywhere you can type text in Scratch.
+Galli di ddefnyddio'r bysellfwrdd emojis i ychwanegu emojis yn unrhyw le y galli di deipio testun yn Scratch.
 
-Instead of typing text use the emoji keyboard shortcut for your Operating System:
+Yn lle teipio testun defnyddia'r llwybr byr ar gyfer y bysellfwrdd emojis sydd ar dy System Weithredu di:
 - Windows - Windows key + '.'
 - MacOS - ctrl + cmd + space
 - Linux - ctrl + '.'
 
-You can use emojis in the value of a variables:
+Galli di ddefnyddio emojis yng ngwerth newidyn:
 ```blocks3
 set [music v] to [🎵]
 ```
 
 ![desc](images/emoji-keyboard.png)
 
-Or, in the **Text** tool in the Paint editor.
+Neu, yn yr offeryn **Testun** yn y golygydd Paent.
 
 ![desc](images/emoji-mosquito.png)
 
-**Tip:** Emojis can look different on different computers so they might not look the same on a tablet and a desktop computer. Some emojis aren't available on some computers, but most modern computers will support them.
+**Awgrym:** Gall emojis edrych yn wahanol ar wahanol gyfrifiaduron, felly efallai fyddan nhw ddim yn edrych yr un peth ar dabled a chyfrifiadur bwrdd gwaith. Dydy rhai emojis ddim ar gael ar rai cyfrifiaduron, ond bydd y mwyafrif o gyfrifiaduron modern yn gallu delio â nhw.
