@@ -1,19 +1,19 @@
-You can use the emoji keyboard to add use emojis anywhere you can type text in Scratch.
+Możesz używać klawiatury emotek, aby dodawać emotki wszędzie tam, gdzie można wpisywać tekst w Scratch.
 
-Instead of typing text use the emoji keyboard shortcut for your Operating System:
-- Windows - Windows key + '.'
-- MacOS - ctrl + cmd + space
+Zamiast wpisywać tekst, skorzystaj z emotkowego skrótu klawiaturowego klawiatury dla swojego systemu operacyjnego:
+- Windows- klawisz Windows + '.'
+- MacOS - ctrl + cmd + spacja
 - Linux - ctrl + '.'
 
-You can use emojis in the value of a variables:
+Możesz używać emotek jako wartości zmiennych:
 ```blocks3
 set [music v] to [🎵]
 ```
 
 ![desc](images/emoji-keyboard.png)
 
-Or, in the **Text** tool in the Paint editor.
+Albo w narzędziu Tekst w edytorze Malowanie.
 
 ![desc](images/emoji-mosquito.png)
 
-**Tip:** Emojis can look different on different computers so they might not look the same on a tablet and a desktop computer. Some emojis aren't available on some computers, but most modern computers will support them.
+**Wskazówka:** Emotki mogą wyglądać inaczej na różnych komputerach, dlatego mogą się różnić na tablecie i komputerze stacjonarnym. Niektóre emotki mogą być niedostępne na niektórych komputerach, ale większość nowoczesnych komputerów je obsługuje.
